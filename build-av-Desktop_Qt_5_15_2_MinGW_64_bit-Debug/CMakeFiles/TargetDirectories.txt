@@ -1,0 +1,5 @@
+C:/av/build-av-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/CMakeFiles/av.dir
+C:/av/build-av-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/av/build-av-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/av/build-av-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/CMakeFiles/av_autogen_timestamp_deps.dir
+C:/av/build-av-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/CMakeFiles/av_autogen.dir
